@@ -2,3 +2,4 @@ pyarrow
 pandas
 numpy
 matplotlib
+xlrd
